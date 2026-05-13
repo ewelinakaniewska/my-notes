@@ -4,10 +4,10 @@ Projekt aplikacji desktopowej służącej do zarządzania osobistymi notatkami. 
 
 ## Główne Funkcjonalności
 
-* **System Autoryzacji:** Bezpieczne logowanie i rejestracja nowych użytkowników.
+* **System Autoryzacji:** Logowanie i rejestracja nowych użytkowników.
 * **Zarządzanie Notatkami (CRUD):** Tworzenie, wyświetlanie, edycja oraz usuwanie notatek przypisanych do konkretnego konta.
 * **Trwałość Danych:** Integracja z bazą danych **PostgreSQL** zapewniająca bezpieczeństwo informacji.
-* **Obsługa Plików:** Wykorzystanie biblioteki `OpenCSV` do przetwarzania danych zewnętrznych.
+* **Obsługa Plików:** Wykorzystanie biblioteki `OpenCSV` do importu i eksportu notatek.
 * **Graficzny Interfejs (GUI):** Intuicyjne okienka zbudowane przy użyciu biblioteki `Java Swing` oraz `IntelliJ GUI Designer`.
 
 ## Technologie i Biblioteki

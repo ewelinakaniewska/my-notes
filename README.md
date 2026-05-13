@@ -2,6 +2,10 @@
 
 Projekt aplikacji desktopowej służącej do zarządzania osobistymi notatkami. Aplikacja została stworzona w języku Java i oferuje pełną izolację danych dzięki systemowi rejestracji i logowania użytkowników.
 
+![Ekran logowania](images/login.png)
+![Panel główny](images/main.png)
+![Notatka](images/note.png)
+
 ## Główne Funkcjonalności
 
 * **System Autoryzacji:** Logowanie i rejestracja nowych użytkowników.
